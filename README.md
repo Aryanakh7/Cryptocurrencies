@@ -1,4 +1,4 @@
-# Cryptocurrencies
+## Cryptocurrencies
 
 ### Summary of the Analysis 
 
